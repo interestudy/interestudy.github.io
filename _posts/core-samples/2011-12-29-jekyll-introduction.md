@@ -1,54 +1,22 @@
 ---
 layout: post
-category : lessons
-title: Introduction
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category: lessons
+title: 李娟
+tagline: 搅拌站所有工作人员一览表
+tags:
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
+published: true
 ---
-{% include JB/setup %}
+ 按时间到了静安寺djaskldj
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
-
-## Overview
-
-### What is Jekyll?
-
-Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
-dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".
-
-### Examples
-
-This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
+ 
 
 
 
-### What does Jekyll Do?
-
-Jekyll is a ruby gem you install on your local system.
-Once there you can call `jekyll --server` on a directory and provided that directory
-is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files,
-compute categories, tags, permalinks, and construct your pages from layout templates and partials.
-
-Once parsed, Jekyll stores the result in a self-contained static `_site` folder.
-The intention here is that you can serve all contents in this folder statically from a plain static web-server.
-
-You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags
-on each request, Jekyll does this once _beforehand_ and caches the _entire website_ in a folder for serving statically.
-
-### Jekyll is Not Blogging Software
-
-**Jekyll is a parsing engine.**
-
-Jekyll does not come with any content nor does it have any templates or design elements.
-This is a common source of confusion when getting started.
-Jekyll does not come with anything you actually use or see on your website - you have to make it.
-
-### Why Should I Care?
-
-Jekyll is very minimalistic and very efficient.
-The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server.
-Traditional dynamic blogs like Wordpress require a database and server-side code.
+  Wordpress require a database and server-side code.
 Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.
 
 Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.
