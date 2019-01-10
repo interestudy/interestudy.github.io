@@ -1,8 +1,8 @@
 ---
 layout: post
 category: lessons
-title: 李娟
-tagline: 搅拌站所有工作人员一览表
+title: ran
+tagline: 第一次搭建博客
 tags:
   - intro
   - beginner
@@ -10,8 +10,10 @@ tags:
   - tutorial
 published: true
 ---
- 按时间到了静安寺djaskldj
+ 
+反向传播在神经网络的训练过程中虽然用得如此之多，但是在网上还很少有通过具体的实例来解释反向传播怎么工作的博文。所以在这篇文章中，我会尝试用一个具体的例子来解释反向传播过程，这样有需要的朋友就可以通过自己的计算过程来判断自己对于反向理解的过程是否到位。
 
+你可以在我的Gihub上找个我写的反向传播的Python实现代码。
  
 
 
